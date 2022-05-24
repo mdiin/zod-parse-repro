@@ -1,0 +1,17 @@
+{
+  "name": "zod-parse-repro",
+  "version": "1.0.0",
+  "description": "Minimal reproducible example of parsing bug",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "zod": "3.16.0"
+  },
+  "devDependencies": {
+    "typescript": "4.6.2"
+  },
+  "author": "",
+  "license": "ISC"
+}
